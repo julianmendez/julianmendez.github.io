@@ -13,7 +13,7 @@
   Fax: +49 351 463 37959<br />
   email: julian . mendez at tu-dresden . de
   </td>
-  <td>**Postal address:**<br />
+  <td>Postal address:<br />
   Dresden University of Technology<br />
   Faculty of Computer Science<br />
   Institute of Theoretical Computer Science<br />
