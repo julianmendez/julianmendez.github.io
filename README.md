@@ -68,6 +68,7 @@
 ## Projects
 
 * [BORN](http://julianmendez.github.io/born): Bayesian Ontology Reasoner, for the description logic EL, fully implemented in Java
+  * [JProbLog](https://julianmendez.github.io/jproblog): (auxiliary project) Java adapter for ProbLog
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites 
 * [jcel](http://julianmendez.github.io/jcel): a classifier for the description logic EL<sup>+</sup>, fully implemented in Java
   * [genericantfile](http://julianmendez.github.io/genericantfile): (auxiliary project) generic Ant file to compile modules with Ivy
@@ -92,7 +93,7 @@
  [Thesis (PDF)](http://lat.inf.tu-dresden.de/research/mas/Men-Mas-11.pdf)
 
 
-## Group
+## Chair of Automata Theory
 
 * [List of publications](http://lat.inf.tu-dresden.de/research/papers.html) of the Chair of Automata Theory
 
