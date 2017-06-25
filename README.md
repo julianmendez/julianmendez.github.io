@@ -71,11 +71,17 @@
   * [JProbLog](https://julianmendez.github.io/jproblog): (auxiliary project) Java adapter for ProbLog
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites 
 * [jcel](https://julianmendez.github.io/jcel): a classifier for the description logic EL<sup>+</sup>, fully implemented in Java
-  * [genericantfile](https://julianmendez.github.io/genericantfile): (auxiliary project) generic Ant file to compile modules with Ivy
 * [UEL](https://julianmendez.github.io/uel): Unification Solver for EL
 * [OntoComP](https://julianmendez.github.io/ontocomp): a Prot&eacute;g&eacute; 4 plug-in for completing OWL ontologies.
 * [CEL Plug-in](https://lat.inf.tu-dresden.de/systems/cel/): a classifier for the description logic EL<sup>+</sup>, Java-Lisp implementation
   * [jsexp](https://julianmendez.github.io/jsexp): (auxiliary project) parser in Java for Lisp S-expressions
+
+
+## Auxiliary Projects
+
+* [lat-parent](https://julianmendez.github.io/lat-parent): POM file used as parent of project parent POM files
+* [genericantfile](https://julianmendez.github.io/genericantfile): generic Ant file to compile modules with Ivy
+* [util](https://julianmendez.github.io/util): collection of modules containing utility classes
 
 
 ## Collaborations
