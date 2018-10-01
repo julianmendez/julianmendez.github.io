@@ -1,28 +1,5 @@
 # Homepage of Julian Mendez
 
-[TU Dresden](https://www.tu-dresden.de) -
-[Faculty of Computer Science](https://www.inf.tu-dresden.de) -
-[Chair of Automata Theory](https://lat.inf.tu-dresden.de/index-en.html)
-
-<table boder="0">
-<tr>
-  <td>Julian Alfredo Mendez, M.Sc.<br />
-  Andreas-Pfitzmann-Bau (APB)<br />
-  N&ouml;thnitzer Str. 46<br />
-  D-01187 Dresden<br />
-  Fax: +49 351 463 37959<br />
-  email: julian . mendez at tu-dresden . de
-  </td>
-  <td>Postal address:<br />
-  Dresden University of Technology<br />
-  Faculty of Computer Science<br />
-  Institute of Theoretical Computer Science<br />
-  D-01062 Dresden<br />
-  Germany</td>
-</tr>
-</table>
-
-
 ## Publications
 
 * <a id="ErxGu14" /> Fredo Erxleben, Michael G&uuml;nther, Markus Kr&ouml;tzsch, Julian Mendez, Denny Vrande&#x010D;i&#x0107;. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
