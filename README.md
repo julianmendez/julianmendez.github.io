@@ -1,5 +1,6 @@
 # Homepage of Julian Mendez
 
+
 ## Publications
 
 * <a id="ErxGu14" /> Fredo Erxleben, Michael G&uuml;nther, Markus Kr&ouml;tzsch, Julian Mendez, Denny Vrande&#x010D;i&#x0107;. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
@@ -46,7 +47,7 @@
 
 * [BORN](https://julianmendez.github.io/born): Bayesian Ontology Reasoner, for the description logic EL, fully implemented in Java
   * [JProbLog](https://julianmendez.github.io/jproblog): (auxiliary project) Java adapter for ProbLog
-* [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites 
+* [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites
 * [jcel](https://julianmendez.github.io/jcel): a classifier for the description logic EL<sup>+</sup>, fully implemented in Java
 * [UEL](https://julianmendez.github.io/uel): Unification Solver for EL
 * [OntoComP](https://julianmendez.github.io/ontocomp): a Prot&eacute;g&eacute; 4 plug-in for completing OWL ontologies.
