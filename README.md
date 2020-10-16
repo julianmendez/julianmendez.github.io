@@ -9,12 +9,17 @@
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2015/CeMePe-ORE15.pdf)
  &nbsp; [CEUR](http://ceur-ws.org/Vol-1387/paper_5.pdf)
 * <a id="ErxGu14" /> Fredo Erxleben, Michael G&uuml;nther, Markus Kr&ouml;tzsch, Julian Mendez, Denny Vrande&#x010D;i&#x0107;. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
- &nbsp; DOI:[10.1007/978-3-319-11964-9_4](https://doi.org/10.1007/978-3-319-11964-9_4)
+ &nbsp; DOI: [10.1007/978-3-319-11964-9_4](https://doi.org/10.1007/978-3-319-11964-9_4)
  &nbsp; [Abstract](https://iccl.inf.tu-dresden.de/web/Inproceedings4005#BEtabid1-0)
  &nbsp; [BibTeX](https://iccl.inf.tu-dresden.de/web/Inproceedings4005#BEtabid1-1)
  &nbsp; [PDF](https://iccl.inf.tu-dresden.de/w/images/3/3a/Wikidata-RDF-export-2014.pdf)
+* <a id="HaMeTT-ARM-14" /> Marcus Hähnel, Julian Mendez, Veronika Thost, Anni-Yasmin Turhan. **Bridging the Application Knowledge Gap**. In *Workshop on Adaptive and Reflective Middleware'14*, December 2014.
+ &nbsp; DOI: [10.1145/2677017.2677020](https://doi.org/10.1145/2677017.2677020)
+ &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:abstract)
+ &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:bibtex)
+ &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2014/HaMeTT-ARM-14.pdf)
 * <a id="DelMe13" /> Waltenegus Dargie, Eldora, Julian Mendez, Christoph M&ouml;bius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan: **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31&mdash;36. San Diego, California, IEEE Computer Society, March 2013.
- &nbsp; DOI:[10.1109/PerComW.2013.6529452](https://doi.org/10.1109/PerComW.2013.6529452)
+ &nbsp; DOI: [10.1109/PerComW.2013.6529452](https://doi.org/10.1109/PerComW.2013.6529452)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/DElMe-CoMoRea-13.pdf)
@@ -23,7 +28,7 @@
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoMeT13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/GoMeT-OWLED-13.pdf)
 * <a id="GoScWiMeAs13" /> Sebastian G&ouml;tz, Ren&eacute; Sch&ouml;ne, Claas Wilke, Julian Mendez, and Uwe A&szlig;mann: **Towards Predictive Self-optimization by Situation Recognition**. *2nd Workshop EASED@ BUIS 2013*11, 2013.
- &nbsp; DOI:[10.1007/s40568-013-0022-4](https://doi.org/10.1007/s40568-013-0022-4)
+ &nbsp; DOI: [10.1007/s40568-013-0022-4](https://doi.org/10.1007/s40568-013-0022-4)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoScWiMeAs13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoScWiMeAs13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/GoScWiMeAs13.pdf)
@@ -31,13 +36,13 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MaMe-AIBD13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MaMe-AIBD13:bibtex)
  &nbsp; [Papers](http://osullivan.ucc.ie/pubs/aibd13.pdf)
-* <a id="BBMM-DL-12" /> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska: **UEL: Unification Solver for *EL* **. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846 of in *CEUR Workshop Proceedings*, pages 26&mdash;36, 2012.
+* <a id="BBMM-DL-12" /> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska: **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846 of in *CEUR Workshop Proceedings*, pages 26&mdash;36, 2012.
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/BBMM-DL-12.pdf)
  &nbsp; [CEUR](http://ceur-ws.org/Vol-846/paper_8.pdf)
 * <a id="BaMM-IJCAR-12" /> Franz Baader, Julian Mendez, and Barbara Morawska: **UEL: Unification Solver for the Description Logic EL &mdash; System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45&mdash;51. Manchester, UK, Springer-Verlag, 2012.
- &nbsp; DOI:[10.1007/978-3-642-31365-3_6](https://doi.org/10.1007/978-3-642-31365-3_6)
+ &nbsp; DOI: [10.1007/978-3-642-31365-3_6](https://doi.org/10.1007/978-3-642-31365-3_6)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaMM-IJCAR-12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaMM-IJCAR-12:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/BaMM-IJCAR-12.pdf)
@@ -45,7 +50,7 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#Me-ORE12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#Me-ORE12:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/Me-ORE12.pdf)
-* <a id="MeEcTu-DL11" /> Julian Mendez, Andreas Ecke, and Anni-Yasmin Turhan: **Implementing completion-based inferences for the *EL*-family**. In Riccardo Rosati, Sebastian Rudolph, and Michael Zakharyaschev, editors, *Proceedings of the international Description Logics workshop*. CEUR, 2011.
+* <a id="MeEcTu-DL11" /> Julian Mendez, Andreas Ecke, and Anni-Yasmin Turhan: **Implementing completion-based inferences for the EL-family**. In Riccardo Rosati, Sebastian Rudolph, and Michael Zakharyaschev, editors, *Proceedings of the international Description Logics workshop*. CEUR, 2011.
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeEcTu-DL11:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeEcTu-DL11:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2011/MeEcTu-DL.pdf)
