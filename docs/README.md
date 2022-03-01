@@ -3,7 +3,7 @@
 
 ## Publications
 
-* <a id="AlBaKoMe2022" /> Andrea Aler Tubella, Flavia Barsotti, Rüya Gökhan Koçer, and Julian Alfredo Mendez: **Ethical implications of fairness interventions: what might be hidden behind engineering choices?**. Ethics and Information Technology, volume 24, issue 1, article 12, Springer 2022.
+* <a id="AlBaKoMe2022" /> Andrea Aler Tubella, Flavia Barsotti, Rüya Gökhan Koçer, and Julian Alfredo Mendez: **Ethical implications of fairness interventions: what might be hidden behind engineering choices?**. *Ethics and Information Technology*, volume 24, issue 1, article 12, Springer 2022.
  &nbsp; DOI:[10.1007/s10676-022-09636-z](https://doi.org/10.1007/s10676-022-09636-z)
  &nbsp; [Abstract](https://link.springer.com/article/10.1007/s10676-022-09636-z#Abs1)
  &nbsp; [BibTeX](https://citation-needed.springer.com/v2/references/10.1007/s10676-022-09636-z?format=bibtex)
@@ -23,7 +23,7 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2014/HaMeTT-ARM-14.pdf)
-* <a id="DelMe13" /> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan: **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31&mdash;36. San Diego, California, IEEE Computer Society, March 2013.
+* <a id="DelMe13" /> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan: **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31—36. San Diego, California, IEEE Computer Society, March 2013.
  &nbsp; DOI:[10.1109/PerComW.2013.6529452](https://doi.org/10.1109/PerComW.2013.6529452)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:bibtex)
@@ -42,12 +42,12 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MaMe-AIBD13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MaMe-AIBD13:bibtex)
  &nbsp; [Papers](http://osullivan.ucc.ie/pubs/aibd13.pdf)
-* <a id="BBMM-DL-12" /> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska: **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846 of in *CEUR Workshop Proceedings*, pages 26&mdash;36, 2012.
+* <a id="BBMM-DL-12" /> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska: **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846 of in *CEUR Workshop Proceedings*, pages 26—36, 2012.
  &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-846/paper_8.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/BBMM-DL-12.pdf)
-* <a id="BaMM-IJCAR-12" /> Franz Baader, Julian Mendez, and Barbara Morawska: **UEL: Unification Solver for the Description Logic EL &mdash; System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45&mdash;51. Manchester, UK, Springer-Verlag, 2012.
+* <a id="BaMM-IJCAR-12" /> Franz Baader, Julian Mendez, and Barbara Morawska: **UEL: Unification Solver for the Description Logic EL — System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45—51. Manchester, UK, Springer-Verlag, 2012.
  &nbsp; DOI:[10.1007/978-3-642-31365-3_6](https://doi.org/10.1007/978-3-642-31365-3_6)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaMM-IJCAR-12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaMM-IJCAR-12:bibtex)
@@ -75,7 +75,7 @@
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites
 * [jcel](https://julianmendez.github.io/jcel): a classifier for the description logic EL<sup>+</sup>, fully implemented in Java
 * [UEL](https://julianmendez.github.io/uel): Unification Solver for EL
-* [OntoComP](https://julianmendez.github.io/ontocomp): a Prot&eacute;g&eacute; 4 plug-in for completing OWL ontologies.
+* [OntoComP](https://julianmendez.github.io/ontocomp): a Protégé 4 plug-in for completing OWL ontologies.
 * [CEL Plug-in](https://lat.inf.tu-dresden.de/systems/cel/): a classifier for the description logic EL<sup>+</sup>, Java-Lisp implementation
   * [jsexp](https://julianmendez.github.io/jsexp): (auxiliary project) parser in Java for Lisp S-expressions
 
