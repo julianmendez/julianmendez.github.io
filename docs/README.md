@@ -3,12 +3,17 @@
 
 ## Publications
 
-* <a id="CJ2015" /> Ismail Ilkan Ceylan, Julian Mendez, and Rafael Peñaloza: **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, pages 8–14. CEUR Workshop Proceedings, 2015.
+* <a id="AlBaKoMe2022" /> Andrea Aler Tubella, Flavia Barsotti, Rüya Gökhan Koçer, and Julian Alfredo Mendez: **Ethical implications of fairness interventions: what might be hidden behind engineering choices?**. Ethics and Information Technology, volume 24, issue 1, article 12, Springer 2022.
+ &nbsp; DOI:[10.1007/s10676-022-09636-z](https://doi.org/10.1007/s10676-022-09636-z)
+ &nbsp; [Abstract](https://link.springer.com/article/10.1007/s10676-022-09636-z#Abs1)
+ &nbsp; [BibTeX](https://citation-needed.springer.com/v2/references/10.1007/s10676-022-09636-z?format=bibtex)
+ &nbsp; [PDF](https://link.springer.com/content/pdf/10.1007/s10676-022-09636-z.pdf)
+* <a id="CeMePe2015" /> İsmail İlkan Ceylan, Julian Mendez, and Rafael Peñaloza: **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, pages 8–14. CEUR Workshop Proceedings, 2015.
  &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-1387/paper_5.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#CJ2015:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#CJ2015:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2015/CeMePe-ORE15.pdf)
-* <a id="ErxGu14" /> Fredo Erxleben, Michael G&uuml;nther, Markus Kr&ouml;tzsch, Julian Mendez, Denny Vrande&#x010D;i&#x0107;. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
+* <a id="ErxGu14" /> Fredo Erxleben, Michael Günther, Markus Krötzsch, Julian Mendez, Denny Vrandečić. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
  &nbsp; DOI:[10.1007/978-3-319-11964-9_4](https://doi.org/10.1007/978-3-319-11964-9_4)
  &nbsp; [Abstract](https://iccl.inf.tu-dresden.de/web/Inproceedings4005#BEtabid1-0)
  &nbsp; [BibTeX](https://iccl.inf.tu-dresden.de/web/Inproceedings4005#BEtabid1-1)
@@ -18,7 +23,7 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#HaMeTT-ARM-14:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2014/HaMeTT-ARM-14.pdf)
-* <a id="DelMe13" /> Waltenegus Dargie, Eldora, Julian Mendez, Christoph M&ouml;bius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan: **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31&mdash;36. San Diego, California, IEEE Computer Society, March 2013.
+* <a id="DelMe13" /> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan: **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31&mdash;36. San Diego, California, IEEE Computer Society, March 2013.
  &nbsp; DOI:[10.1109/PerComW.2013.6529452](https://doi.org/10.1109/PerComW.2013.6529452)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:bibtex)
@@ -28,7 +33,7 @@
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoMeT13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoMeT13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/GoMeT-OWLED-13.pdf)
-* <a id="GoScWiMeAs13" /> Sebastian G&ouml;tz, Ren&eacute; Sch&ouml;ne, Claas Wilke, Julian Mendez, and Uwe A&szlig;mann: **Towards Predictive Self-optimization by Situation Recognition**. *2nd Workshop EASED@ BUIS 2013*11, 2013.
+* <a id="GoScWiMeAs13" /> Sebastian Götz, René Schöne, Claas Wilke, Julian Mendez, and Uwe Aßmann: **Towards Predictive Self-optimization by Situation Recognition**. *2nd Workshop EASED@ BUIS 2013*11, 2013.
  &nbsp; DOI:[10.1007/s40568-013-0022-4](https://doi.org/10.1007/s40568-013-0022-4)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoScWiMeAs13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoScWiMeAs13:bibtex)
