@@ -10,6 +10,13 @@
 
 [(ORCID)](https://orcid.org/0000-0002-7383-0529)
 
+* <a id="AlCoDaDeDiErJoKaLeMeNi2023"></a>
+Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devinney, Virginia Dignum, Petter Ericson, Anna Jonsson, Timotheus Kampik, Tom Lenaerts, Julian Alfredo Mendez, Juan Carlos Nieves: **ACROCPoLis: A Descriptive Framework for Making Sense of Fairness**. *FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency*, pages 1014–1025, 2023.
+ &nbsp; DOI:[10.1145/3593013.3594059](https://doi.org/10.1145/3593013.3594059)
+ &nbsp; [Abstract](https://dl.acm.org/doi/abs/10.1145/3593013.3594059)
+ &nbsp; [PDF](https://dl.acm.org/doi/pdf/10.1145/3593013.3594059)
+ &nbsp; [ePDF](https://dl.acm.org/doi/epdf/10.1145/3593013.3594059)
+ &nbsp; [HTML](https://dl.acm.org/doi/fullHtml/10.1145/3593013.3594059)
 * <a id="AlBaKoMe2022"></a> Andrea Aler Tubella, Flavia Barsotti, Rüya Gökhan Koçer, and Julian Alfredo Mendez: **Ethical implications of fairness interventions: what might be hidden behind engineering choices?**. *Ethics and Information Technology*, volume 24, issue 1, article 12, Springer 2022.
  &nbsp; DOI:[10.1007/s10676-022-09636-z](https://doi.org/10.1007/s10676-022-09636-z)
  &nbsp; [Abstract](https://link.springer.com/article/10.1007/s10676-022-09636-z#Abs1)
@@ -85,12 +92,13 @@
 
 ## Projects
 
+* [Soda](https://julianmendez.github.io/soda): Soda (Symbolic Objective Descriptive Analysis) is an object-oriented functional language to describe, analyze, and model human-centered problems
 * [BORN](https://julianmendez.github.io/born): Bayesian Ontology Reasoner, for the description logic EL, fully implemented in Java
   * [JProbLog](https://julianmendez.github.io/jproblog): (auxiliary project) Java adapter for ProbLog
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit): an open source Java library for using data from Wikidata and other Wikibase sites
 * [jcel](https://julianmendez.github.io/jcel): a classifier for the description logic EL<sup>+</sup>, fully implemented in Java
 * [UEL](https://julianmendez.github.io/uel): Unification Solver for EL
-* [OntoComP](https://julianmendez.github.io/ontocomp): a Protégé 4 plug-in for completing OWL ontologies.
+* [OntoComP](https://julianmendez.github.io/ontocomp): a Protégé 4 plug-in for completing OWL ontologies
 * [CEL Plug-in](https://tu-dresden.de/ing/informatik/thi/lat/forschung/software/cel): a classifier for the description logic EL<sup>+</sup>, Java-Lisp implementation
   * [jsexp](https://julianmendez.github.io/jsexp): (auxiliary project) parser in Java for Lisp S-expressions
 
@@ -128,6 +136,5 @@
 ## Former Research Groups
 
 * [TU Dresden](https://iccl.inf.tu-dresden.de/web/Julian_Mendez/en)
- &nbsp; [(list of publications)](https://forschungsinfo.tu-dresden.de/suche?q=julian%20mendez&dfF=7&dfI=111&dfP=201&sort=berichtsjahr_desc)
 
 
