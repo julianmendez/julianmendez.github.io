@@ -1,5 +1,7 @@
 # Julian Alfredo Mendez
 
+[(ORCID)](https://orcid.org/0000-0002-7383-0529)
+
 
 ## Research Group
 
@@ -7,8 +9,6 @@
 
 
 ## Publications
-
-[(ORCID)](https://orcid.org/0000-0002-7383-0529)
 
 * <a id="AlCoDaDeDiErJoKaLeMeNi2023"></a>
 Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devinney, Virginia Dignum, Petter Ericson, Anna Jonsson, Timotheus Kampik, Tom Lenaerts, Julian Alfredo Mendez, Juan Carlos Nieves: **ACROCPoLis: A Descriptive Framework for Making Sense of Fairness**. *FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency*, pages 1014–1025, 2023.
@@ -122,6 +122,13 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaaderBLW10:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaaderBLW10:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2010/BaaderBLW10.pdf)
+
+
+## Preprints
+
+* <a id="Me2023"></a>
+Julian Alfredo Mendez. **Soda: An Object-Oriented Functional Language for Specifying Human-Centered Problems**, arXiv
+&nbsp; DOI:[10.48550/arXiv.2310.01961](https://doi.org/10.48550/arXiv.2310.01961)
 
 
 ## Master's Thesis
