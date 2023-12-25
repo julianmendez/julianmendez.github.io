@@ -3,9 +3,10 @@
 [(ORCID)](https://orcid.org/0000-0002-7383-0529)
 
 
-## Research Group
+## Research
 
 * [Umeå University](https://www.umu.se/en/staff/julian-mendez/)
+* [Star C](https://star-c.cs.umu.se)
 
 
 ## Publications
@@ -24,7 +25,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [PDF](https://link.springer.com/content/pdf/10.1007/s10676-022-09636-z.pdf)
  &nbsp; [Implementation](https://gitlab.com/ing-umea/eit-ethical-implications)
 * <a id="CeMePe2015"></a> İsmail İlkan Ceylan, Julian Mendez, and Rafael Peñaloza: **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, pages 8–14. volume 1387, CEUR Workshop Proceedings, 2015.
- &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-1387/paper_5.pdf)
+ &nbsp; [ceur-ws.org](https://ceur-ws.org/Vol-1387/paper_5.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#CJ2015:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#CJ2015:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2015/CeMePe-ORE15.pdf)
@@ -46,7 +47,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#DelMe13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/DElMe-CoMoRea-13.pdf)
 * <a id="GoMeT13"></a> Sebastian Goetz, Julian Mendez, Veronika Thost, and Anni-Yasmin Turhan: **OWL 2 Reasoning To Detect Energy-Efficient Software Variants From Context**. In Kavitha Srinivas and Simon Jupp, editors, *Proceedings of the 10th OWL: Experiences and Directions Workshop (OWLED 2013)*, volume 1080, CEUR Workshop Proceedings, May 2013.
- &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-1080/owled2013_11.pdf)
+ &nbsp; [ceur-ws.org](https://ceur-ws.org/Vol-1080/owled2013_11.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoMeT13:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#GoMeT13:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2013/GoMeT-OWLED-13.pdf)
@@ -60,7 +61,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MaMe-AIBD13:bibtex)
  &nbsp; [Papers](http://osullivan.ucc.ie/pubs/aibd13.pdf)
 * <a id="BBMM-DL-12"></a> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska: **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846, CEUR Workshop Proceedings, pages 26—36, 2012.
- &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-846/paper_8.pdf)
+ &nbsp; [ceur-ws.org](https://ceur-ws.org/Vol-846/paper_8.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBMM-DL-12:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/BBMM-DL-12.pdf)
@@ -78,13 +79,13 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2012/Me-ORE12.pdf)
  &nbsp; [Implementation](https://julianmendez.github.io/jcel)
 * <a id="MeEcTu-DL11"></a> Julian Mendez, Andreas Ecke, and Anni-Yasmin Turhan: **Implementing completion-based inferences for the EL-family**. In Riccardo Rosati, Sebastian Rudolph, and Michael Zakharyaschev, editors, *Proceedings of the international Description Logics workshop*, volume 745, CEUR Workshop Proceedings, 2011.
- &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-745/paper_56.pdf)
+ &nbsp; [ceur-ws.org](https://ceur-ws.org/Vol-745/paper_56.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeEcTu-DL11:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeEcTu-DL11:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2011/MeEcTu-DL.pdf)
  &nbsp; [Implementation](https://julianmendez.github.io/jcel)
 * <a id="MeSu-DL09"></a> Julian Mendez and Boontawee Suntisrivaraporn: **Reintroducing CEL as an OWL 2 EL Reasoner**. In Bernardo Cuenca Grau, Ian Horrocks, Boris Motik, and Ulrike Sattler, editors, *Proceedings of the 2009 International Workshop on Description Logics (DL2009)*, volume 477, CEUR Workshop Proceedings, 2009.
- &nbsp; [ceur-ws.org](http://ceur-ws.org/Vol-477/paper_65.pdf)
+ &nbsp; [ceur-ws.org](https://ceur-ws.org/Vol-477/paper_65.pdf)
  &nbsp; [Abstract](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeSu-DL09:abstract)
  &nbsp; [BibTeX](https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#MeSu-DL09:bibtex)
  &nbsp; [PDF](https://lat.inf.tu-dresden.de/research/papers/2009/MeSu-DL09.pdf)
