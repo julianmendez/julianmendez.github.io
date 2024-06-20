@@ -11,6 +11,12 @@
 
 ## Publications
 
+* <a id="MeKaAlDi2024"></a>
+Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum: **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120, Jönköping, Sweden, June 2024.
+ &nbsp; DOI:[10.3384/ecp208013](https://doi.org/10.3384/ecp208013)
+ &nbsp; [Abstract](https://ecp.ep.liu.se/index.php/sais/article/view/1005)
+ &nbsp; [PDF](https://ecp.ep.liu.se/index.php/sais/article/view/1005/913)
+ &nbsp; [Implementation](https://github.com/julianmendez/tiles)
 * <a id="AlCoDaDeDiErJoKaLeMeNi2023"></a>
 Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devinney, Virginia Dignum, Petter Ericson, Anna Jonsson, Timotheus Kampik, Tom Lenaerts, Julian Alfredo Mendez, Juan Carlos Nieves: **ACROCPoLis: A Descriptive Framework for Making Sense of Fairness**. *FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency*, pages 1014–1025, 2023.
  &nbsp; DOI:[10.1145/3593013.3594059](https://doi.org/10.1145/3593013.3594059)
