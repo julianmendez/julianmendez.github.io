@@ -100,7 +100,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
 
 ## Projects
 
-* [Tiles][tiles-web] : Soda (Transparent,  Intuitive,  Logical,  Eth-ical,  and  Structured)) is a framework to create formal configurations of constraints.
+* [Tiles][tiles-web] : Tiles (Transparent,  Intuitive,  Logical,  Ethical,  and  Structured) is a framework to create formal configurations of constraints.
 * [Soda][soda-web] : Soda (Symbolic Objective Descriptive Analysis) is an object-oriented functional language to describe, analyze, and model human-centered problems.
 * [BORN][born-web] : Bayesian Ontology Reasoner, for the description logic EL, fully implemented in Java.
   * [JProbLog][jproblog-web] : (auxiliary project) Java adapter for ProbLog.
@@ -251,6 +251,7 @@ arXiv
 [dl-2009-pdf]: https://lat.inf.tu-dresden.de/research/papers/2009/MeSu-DL09.pdf
 [dl-2009-impl]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/software/cel
 
+[tiles-web]: https://julianmendez.github.io/tiles
 [soda-web]: https://julianmendez.github.io/soda
 [born-web]: https://julianmendez.github.io/born
 [jproblog-web]: https://julianmendez.github.io/jproblog
