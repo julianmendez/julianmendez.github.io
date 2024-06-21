@@ -12,15 +12,17 @@
 ## Publications
 
 * <a id="MeKaAlDi2024"></a>
-Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120, Jönköping, Sweden, June 2024.
+Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120. Swedish Artificial Intelligence Society, June 2024.
  &nbsp; DOI:[10.3384/ecp208013][scai-2024-doi]
  &nbsp; [Abstract][scai-2024-abstract]
+ &nbsp; [BibTeX][scai-2024-bibtex]
  &nbsp; [PDF][scai-2024-pdf]
  &nbsp; [Implementation][scai-2024-impl]
 * <a id="AlCoDaDeDiErJoKaLeMeNi2023"></a>
 Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devinney, Virginia Dignum, Petter Ericson, Anna Jonsson, Timotheus Kampik, Tom Lenaerts, Julian Alfredo Mendez, and Juan Carlos Nieves. **ACROCPoLis: A Descriptive Framework for Making Sense of Fairness**. *FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency*, pages 1014–1025, 2023.
  &nbsp; DOI:[10.1145/3593013.3594059][facct-2023-doi]
  &nbsp; [Abstract][facct-2023-abstract]
+ &nbsp; [BibTeX][facct-2023-bibtex]
  &nbsp; [PDF][facct-2023-pdf]
  &nbsp; [ePDF][facct-2023-epdf]
  &nbsp; [HTML][facct-2023-html]
@@ -65,7 +67,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
 * <a id="MaMe-AIBD13"></a> Yue Ma and Julian Mendez. **High Quality Data Generation: An Ontology Reasoning based Approach**. In *AIBD'13: The First International Workshop on Artificial Intelligence for Big Data (in conjunction with IJCAI'13)*, 2013.
  &nbsp; [Abstract][aibd-2013-abstract]
  &nbsp; [BibTeX][aibd-2013-bibtex]
- &nbsp; [Papers][aibd-2013-pdf]
+ &nbsp; [Proceedings][aibd-2013-pdf]
 * <a id="BBMM-DL-12"></a> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska. **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846, CEUR Workshop Proceedings, pages 26—36, 2012.
  &nbsp; [ceur-ws.org][dl-2012-pub]
  &nbsp; [Abstract][dl-2012-abstract]
@@ -170,11 +172,13 @@ arXiv
 
 [scai-2024-doi]: https://doi.org/10.3384/ecp208013
 [scai-2024-abstract]: https://ecp.ep.liu.se/index.php/sais/article/view/1005
+[scai-2024-bibtex]: https://julianmendez.github.io/tiles/bibtex-2024.html
 [scai-2024-pdf]: https://ecp.ep.liu.se/index.php/sais/article/view/1005/913
 [scai-2024-impl]: https://github.com/julianmendez/tiles
 
 [facct-2023-doi]: https://doi.org/10.1145/3593013.3594059
 [facct-2023-abstract]: https://dl.acm.org/doi/abs/10.1145/3593013.3594059
+[facct-2023-bibtex]: https://julianmendez.github.io/tiles/bibtex-acrocpolis-2023.html
 [facct-2023-pdf]: https://dl.acm.org/doi/pdf/10.1145/3593013.3594059
 [facct-2023-epdf]: https://dl.acm.org/doi/epdf/10.1145/3593013.3594059
 [facct-2023-html]: https://dl.acm.org/doi/fullHtml/10.1145/3593013.3594059
