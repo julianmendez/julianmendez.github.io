@@ -185,7 +185,7 @@ arXiv
 
 [etin-2022-doi]: https://doi.org/10.1007/s10676-022-09636-z
 [etin-2022-abstract]: https://link.springer.com/article/10.1007/s10676-022-09636-z#Abs1
-[etin-2022-bibtex]: https://citation-needed.springer.com/v2/references/10.1007/s10676-022-09636-z?format=bibtex
+[etin-2022-bibtex]: https://citation-needed.springer.com/v2/references/10.1007/s10676-022-09636-z?format=bibtex&flavour=citation
 [etin-2022-pdf]: https://link.springer.com/content/pdf/10.1007/s10676-022-09636-z.pdf
 [etin-2022-impl]: https://gitlab.com/ing-umea/eit-ethical-implications
 
