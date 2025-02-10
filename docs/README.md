@@ -128,6 +128,11 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [Abstract][jair-2016-abstract]
  &nbsp; [BibTeX][jair-2016-bibtex]
  &nbsp; [PDF][jair-2016-pdf]
+* <a id="PeTu-ESWC2011"></a> Rafael Peñaloza, Anni-Yasmin Turhan. **A Practical Approach for Computing Generalization Inferences in EL**. In Grigoris Antoniou, Marko Grobelnik, Elena Simperl, Bijan Parsia, Dimitris Plexousakis, Pieter De Leenheer, and Jeff Pan, editors, *Proceedings of the 8th Extended Semantic Web Conference (ESWC 2011)*, Lecture Notes in Computer Science, vol 6643, 410-423, Springer, 2011.
+ &nbsp; DOI:[10.1007/978-3-642-21034-1_28][eswc-2011-doi]
+ &nbsp; [Abstract][eswc-2011-abstract]
+ &nbsp; [BibTeX][eswc-2011-bibtex]
+ &nbsp; [PDF][eswc-2011-pdf]
 * <a id="BaaderBLW10"></a> Franz Baader, Meghyn Bienvenu, Carsten Lutz, and Frank Wolter. **Query and Predicate Emptiness in Description Logics**. In Fangzhen Lin and Ulrike Sattler, editors, *Proceedings of the 12th International Conference on Principles of Knowledge Representation and Reasoning (KR2010)*. AAAI Press, 2010.
  &nbsp; [aaai.org][kr-2010-pub]
  &nbsp; [Abstract][kr-2010-abstract]
@@ -148,9 +153,17 @@ arXiv
  &nbsp; [Implementation][arxiv-2023-impl]
 
 
+## Licentiate Thesis
+
+* <a id="Men-Lic-24"></a> Julian Alfredo Mendez. **Making Fairness Actionable**, Licentiate thesis, Umeå University, 2024.
+ &nbsp; URN:[urn:nbn:se:umu:diva-232384][licentiate-urn]
+ &nbsp; [Abstract][licentiate-abstract]
+ &nbsp; [PDF][licentiate-pdf]
+
+
 ## Master's Thesis
 
-* <a id="Men-Mas-11"></a> Julian Mendez. **A Classification Algorithm For ELHIfR+**
+* <a id="Men-Mas-11"></a> Julian Mendez. **A Classification Algorithm For ELHIfR+**, Master's thesis, Technische Universität Dresden, 2011.
  &nbsp; [Abstract][master-abstract]
  &nbsp; [BibTeX][master-bibtex]
  &nbsp; [PDF][master-pdf]
@@ -274,6 +287,11 @@ arXiv
 [jair-2016-bibtex]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BBLW-JAIR16:bibtex
 [jair-2016-pdf]: https://lat.inf.tu-dresden.de/research/papers/2016/BBLW-JAIR16.pdf
 
+[eswc-2011-doi]: https://doi.org/10.1007/978-3-642-21034-1_28
+[eswc-2011-abstract]: https://link.springer.com/chapter/10.1007/978-3-642-21034-1_28#Abs1
+[eswc-2011-bibtex]: https://citation-needed.springer.com/v2/references/10.1007/978-3-642-21034-1_28?format=bibtex&flavour=citation
+[eswc-2011-pdf]: https://link.springer.com/content/pdf/10.1007/978-3-642-21034-1_28.pdf
+
 [kr-2010-pub]: https://aaai.org/ocs/index.php/KR/KR2010/paper/view/1246
 [kr-2010-abstract]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaaderBLW10:abstract
 [kr-2010-bibtex]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/veroeffentlichungen#BaaderBLW10:bibtex
@@ -284,6 +302,10 @@ arXiv
 [arxiv-2023-bibtex]: https://julianmendez.github.io/soda/bibtex-2023.html
 [arxiv-2023-pdf]: https://arxiv.org/pdf/2310.01961
 [arxiv-2023-impl]: https://github.com/julianmendez/soda
+
+[licentiate-urn]: https://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A1916851&dswid=-5038
+[licentiate-abstract]: https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aumu%3Adiva-232384
+[licentiate-pdf]: https://webapps.cs.umu.se/uminf/reports/2024/012/part1.pdf
 
 [master-abstract]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/abschlussarbeiten/diplomarbeiten-und-masterarbeiten#Men-Mas-11:abstract
 [master-bibtex]: https://tu-dresden.de/ing/informatik/thi/lat/forschung/abschlussarbeiten/diplomarbeiten-und-masterarbeiten#Men-Mas-11:bibtex
