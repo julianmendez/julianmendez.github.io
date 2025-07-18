@@ -1,16 +1,23 @@
 # Julian Alfredo Mendez
 
-[(ORCID)][orcid]
+[ORCID: 0000-0002-7383-0529][orcid]
 
 
 ## Research
 
 * [Umeå University][umea-university]
-* [Star C][star-c]
 
 
 ## Publications
 
+* <a id="MeKa2025"></a>
+Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-agent Systems?**. In: Rem Collier, Alessandro Ricci, Vivek Nallur, Samuele Burattini, and Andrea Omicini (editors), *Multi-Agent Systems. EUMAS 2024. Lecture Notes in Computer Science*, vol 15685. Springer, Cham, 2025.
+&nbsp; DOI:[10.1007/978-3-031-93930-3_19][eumas-2024-doi]
+&nbsp; [Abstract][eumas-2024-abstract]
+&nbsp; [BibTeX][eumas-2024-bibtex]
+&nbsp; [PDF][eumas-2024-pdf]
+&nbsp; [arXiv][eumas-2024-arxiv]
+&nbsp; [Implementation][eumas-2024-impl]
 * <a id="MeKaAlDi2024"></a>
 Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120. Swedish Artificial Intelligence Society, June 2024.
  &nbsp; DOI:[10.3384/ecp208013][scai-2024-doi]
@@ -181,7 +188,13 @@ arXiv
 
 [orcid]: https://orcid.org/0000-0002-7383-0529
 [umea-university]: https://www.umu.se/en/staff/julian-mendez/
-[star-c]: https://star-c.cs.umu.se
+
+[eumas-2024-doi]: https://doi.org/10.1007/978-3-031-93930-3_19
+[eumas-2024-abstract]: https://link.springer.com/chapter/10.1007/978-3-031-93930-3_19#Abs1
+[eumas-2024-bibtex]: https://julianmendez.github.io/market/bibtex-2025.html
+[eumas-2024-pdf]: https://link.springer.com/content/pdf/10.1007/978-3-031-93930-3_19.pdf?pdf=inline%20link
+[eumas-2024-arxiv]: https://arxiv.org/abs/2503.06812
+[eumas-2024-impl]: https://github.com/julianmendez/market
 
 [scai-2024-doi]: https://doi.org/10.3384/ecp208013
 [scai-2024-abstract]: https://ecp.ep.liu.se/index.php/sais/article/view/1005
