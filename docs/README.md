@@ -20,7 +20,7 @@ Julian Alfredo Mendez and Timotheus Kampik. **Specification, application, and op
  &nbsp; [arXiv][lngai-2025-arxiv]
  &nbsp; [Implementation][lngai-2025-impl]
 - <a id="MeKa2025"></a>
-Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-agent Systems?**. In: Rem Collier, Alessandro Ricci, Vivek Nallur, Samuele Burattini, and Andrea Omicini (editors), *Multi-Agent Systems. EUMAS 2024. Lecture Notes in Computer Science*, vol 15685. Springer, Cham, 2025.
+Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-agent Systems?**. In: Rem Collier, Alessandro Ricci, Vivek Nallur, Samuele Burattini, and Andrea Omicini (editors), *Multi-Agent Systems. EUMAS 2024. Lecture Notes in Computer Science*, volume 15685. Springer, Cham, 2025.
  &nbsp; [https://doi.org/10.1007/978-3-031-93930-3_19][eumas-2024-doi]
  &nbsp; [Abstract][eumas-2024-abstract]
  &nbsp; [BibTeX][eumas-2024-bibtex]
@@ -28,7 +28,7 @@ Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-
  &nbsp; [arXiv][eumas-2024-arxiv]
  &nbsp; [Implementation][eumas-2024-impl]
 - <a id="MeKaAlDi2024"></a>
-Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120. Swedish Artificial Intelligence Society, June 2024.
+Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112–120. Swedish Artificial Intelligence Society, June 2024.
  &nbsp; [https://doi.org/10.3384/ecp208013][scai-2024-doi]
  &nbsp; [Abstract][scai-2024-abstract]
  &nbsp; [BibTeX][scai-2024-bibtex]
@@ -48,7 +48,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [BibTeX][etin-2022-bibtex]
  &nbsp; [PDF][etin-2022-pdf]
  &nbsp; [Implementation][etin-2022-impl]
-- <a id="CeMePe2015"></a> İsmail İlkan Ceylan, Julian Mendez, and Rafael Peñaloza. **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, pages 8–14. volume 1387, CEUR Workshop Proceedings, 2015.
+- <a id="CeMePe2015"></a> İsmail İlkan Ceylan, Julian Mendez, and Rafael Peñaloza. **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, volume 1387, pages 8–14. CEUR Workshop Proceedings, 2015.
  &nbsp; [CEUR-WS.org/Vol-1387/paper_5.pdf][ore-2015-pub]
  &nbsp; [Abstract][ore-2015-abstract]
  &nbsp; [BibTeX][ore-2015-bibtex]
@@ -65,7 +65,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [Abstract][arm-2013-abstract]
  &nbsp; [BibTeX][arm-2013-bibtex]
  &nbsp; [PDF][arm-2013-pdf]
-- <a id="DelMe13"></a> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan. **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31—36. San Diego, California, IEEE Computer Society, March 2013.
+- <a id="DelMe13"></a> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan. **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31–36. San Diego, California, IEEE Computer Society, March 2013.
  &nbsp; [https://doi.org/10.1109/PerComW.2013.6529452][comorea-2013-doi]
  &nbsp; [Abstract][comorea-2013-abstract]
  &nbsp; [BibTeX][comorea-2013-bibtex]
@@ -84,13 +84,13 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [Abstract][aibd-2013-abstract]
  &nbsp; [BibTeX][aibd-2013-bibtex]
  &nbsp; [Proceedings][aibd-2013-pdf]
-- <a id="BBMM-DL-12"></a> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska. **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846, CEUR Workshop Proceedings, pages 26—36, 2012.
+- <a id="BBMM-DL-12"></a> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska. **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846, CEUR Workshop Proceedings, pages 26–36, 2012.
  &nbsp; [CEUR-WS.org/Vol-846/paper_8.pdf][dl-2012-pub]
  &nbsp; [Abstract][dl-2012-abstract]
  &nbsp; [BibTeX][dl-2012-bibtex]
  &nbsp; [PDF][dl-2012-pdf]
  &nbsp; [Implementation][dl-2012-impl]
-- <a id="BaMM-IJCAR-12"></a> Franz Baader, Julian Mendez, and Barbara Morawska. **UEL: Unification Solver for the Description Logic EL — System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45—51. Manchester, UK, Springer-Verlag, 2012.
+- <a id="BaMM-IJCAR-12"></a> Franz Baader, Julian Mendez, and Barbara Morawska. **UEL: Unification Solver for the Description Logic EL — System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45–51. Manchester, UK, Springer-Verlag, 2012.
  &nbsp; [https://doi.org/10.1007/978-3-642-31365-3_6][ijcar-2012-doi]
  &nbsp; [Abstract][ijcar-2012-abstract]
  &nbsp; [BibTeX][ijcar-2012-bibtex]
@@ -139,12 +139,12 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
 
 ## Collaborations
 
-- <a id="BBLW-JAIR16"></a> Franz Baader, Meghyn Bienvenu, Carsten Lutz, and Frank Wolter. **Query and Predicate Emptiness in Ontology-Based Data Access**. In *Journal of Artificial Intelligence Research (JAIR)*, 56:1–59, 2016.
+- <a id="BBLW-JAIR16"></a> Franz Baader, Meghyn Bienvenu, Carsten Lutz, and Frank Wolter. **Query and Predicate Emptiness in Ontology-Based Data Access**. In *Journal of Artificial Intelligence Research (JAIR)*, volume 56, pages 1–59, 2016.
  &nbsp; [https://doi.org/10.1613/jair.4866][jair-2016-doi]
  &nbsp; [Abstract][jair-2016-abstract]
  &nbsp; [BibTeX][jair-2016-bibtex]
  &nbsp; [PDF][jair-2016-pdf]
-- <a id="PeTu-ESWC2011"></a> Rafael Peñaloza, Anni-Yasmin Turhan. **A Practical Approach for Computing Generalization Inferences in EL**. In Grigoris Antoniou, Marko Grobelnik, Elena Simperl, Bijan Parsia, Dimitris Plexousakis, Pieter De Leenheer, and Jeff Pan, editors, *Proceedings of the 8th Extended Semantic Web Conference (ESWC 2011)*, Lecture Notes in Computer Science, vol 6643, 410-423, Springer, 2011.
+- <a id="PeTu-ESWC2011"></a> Rafael Peñaloza, Anni-Yasmin Turhan. **A Practical Approach for Computing Generalization Inferences in EL**. In Grigoris Antoniou, Marko Grobelnik, Elena Simperl, Bijan Parsia, Dimitris Plexousakis, Pieter De Leenheer, and Jeff Pan, editors, *Proceedings of the 8th Extended Semantic Web Conference (ESWC 2011)*, Lecture Notes in Computer Science, volume 6643, pages 410–423, Springer, 2011.
  &nbsp; [https://doi.org/10.1007/978-3-642-21034-1_28][eswc-2011-doi]
  &nbsp; [Abstract][eswc-2011-abstract]
  &nbsp; [BibTeX][eswc-2011-bibtex]
