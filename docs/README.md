@@ -11,14 +11,22 @@
 
 ## Publications
 
+- <a id="MeKa2025Spec"></a>
+Julian Alfredo Mendez and Timotheus Kampik. **Specification, application, and operationalization of a metamodel of fairness**. Logics for New-Generation AI, pages 163–180, 2025.
+ &nbsp; [CollegePublications.co.uk/LNGAI/?00005][lngai-2025-pub]
+ &nbsp; [Abstract][lngai-2025-abstract]
+ &nbsp; [BibTeX][lngai-2025-bibtex]
+ &nbsp; [PDF][lngai-2025-pdf]
+ &nbsp; [arXiv][lngai-2025-arxiv]
+ &nbsp; [Implementation][lngai-2025-impl]
 - <a id="MeKa2025"></a>
 Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-agent Systems?**. In: Rem Collier, Alessandro Ricci, Vivek Nallur, Samuele Burattini, and Andrea Omicini (editors), *Multi-Agent Systems. EUMAS 2024. Lecture Notes in Computer Science*, vol 15685. Springer, Cham, 2025.
-&nbsp; [https://doi.org/10.1007/978-3-031-93930-3_19][eumas-2024-doi]
-&nbsp; [Abstract][eumas-2024-abstract]
-&nbsp; [BibTeX][eumas-2024-bibtex]
-&nbsp; [PDF][eumas-2024-pdf]
-&nbsp; [arXiv][eumas-2024-arxiv]
-&nbsp; [Implementation][eumas-2024-impl]
+ &nbsp; [https://doi.org/10.1007/978-3-031-93930-3_19][eumas-2024-doi]
+ &nbsp; [Abstract][eumas-2024-abstract]
+ &nbsp; [BibTeX][eumas-2024-bibtex]
+ &nbsp; [PDF][eumas-2024-pdf]
+ &nbsp; [arXiv][eumas-2024-arxiv]
+ &nbsp; [Implementation][eumas-2024-impl]
 - <a id="MeKaAlDi2024"></a>
 Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120. Swedish Artificial Intelligence Society, June 2024.
  &nbsp; [https://doi.org/10.3384/ecp208013][scai-2024-doi]
@@ -194,6 +202,18 @@ arXiv
 [dblp]: https://dblp.org/pid/316/1614.html
 
 [umea-university]: https://www.umu.se/en/staff/julian-mendez/
+
+[lngai-2025-pub]: https://www.collegepublications.co.uk/LNGAI/?00005
+
+[lngai-2025-abstract]: https://arxiv.org/abs/2511.11144
+
+[lngai-2025-bibtex]: https://arxiv.org/abs/2511.11144
+
+[lngai-2025-pdf]: http://collegepublications.co.uk/admin/download.php?ID=LNGAI00005
+
+[lngai-2025-arxiv]: https://arxiv.org/abs/2511.11144
+
+[lngai-2025-impl]: https://github.com/julianmendez/tiles
 
 [eumas-2024-doi]: https://doi.org/10.1007/978-3-031-93930-3_19
 
