@@ -13,7 +13,7 @@
 
 - <a id="MeKa2025"></a>
 Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-agent Systems?**. In: Rem Collier, Alessandro Ricci, Vivek Nallur, Samuele Burattini, and Andrea Omicini (editors), *Multi-Agent Systems. EUMAS 2024. Lecture Notes in Computer Science*, vol 15685. Springer, Cham, 2025.
-&nbsp; DOI:[10.1007/978-3-031-93930-3_19][eumas-2024-doi]
+&nbsp; [https://doi.org/10.1007/978-3-031-93930-3_19][eumas-2024-doi]
 &nbsp; [Abstract][eumas-2024-abstract]
 &nbsp; [BibTeX][eumas-2024-bibtex]
 &nbsp; [PDF][eumas-2024-pdf]
@@ -21,54 +21,54 @@ Julian Alfredo Mendez and Timotheus Kampik. **Can Proof Assistants Verify Multi-
 &nbsp; [Implementation][eumas-2024-impl]
 - <a id="MeKaAlDi2024"></a>
 Julian Alfredo Mendez, Timotheus Kampik, Andrea Aler Tubella, and Virginia Dignum. **A Clearer View on Fairness: Visual and Formal Representation for Comparative Analysis**. In Florian Westphal, Einav Peretz-Andersson, Maria Riveiro, Kerstin Bach, and Fredrik Heintz, editors, *14th Scandinavian Conference on Artificial Intelligence, SCAI 2024*, pages 112-120. Swedish Artificial Intelligence Society, June 2024.
- &nbsp; DOI:[10.3384/ecp208013][scai-2024-doi]
+ &nbsp; [https://doi.org/10.3384/ecp208013][scai-2024-doi]
  &nbsp; [Abstract][scai-2024-abstract]
  &nbsp; [BibTeX][scai-2024-bibtex]
  &nbsp; [PDF][scai-2024-pdf]
  &nbsp; [Implementation][scai-2024-impl]
 - <a id="AlCoDaDeDiErJoKaLeMeNi2023"></a>
 Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devinney, Virginia Dignum, Petter Ericson, Anna Jonsson, Timotheus Kampik, Tom Lenaerts, Julian Alfredo Mendez, and Juan Carlos Nieves. **ACROCPoLis: A Descriptive Framework for Making Sense of Fairness**. *FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency*, pages 1014–1025, 2023.
- &nbsp; DOI:[10.1145/3593013.3594059][facct-2023-doi]
+ &nbsp; [https://doi.org/10.1145/3593013.3594059][facct-2023-doi]
  &nbsp; [Abstract][facct-2023-abstract]
  &nbsp; [BibTeX][facct-2023-bibtex]
  &nbsp; [PDF][facct-2023-pdf]
  &nbsp; [ePDF][facct-2023-epdf]
  &nbsp; [HTML][facct-2023-html]
 - <a id="AlBaKoMe2022"></a> Andrea Aler Tubella, Flavia Barsotti, Rüya Gökhan Koçer, and Julian Alfredo Mendez. **Ethical implications of fairness interventions: what might be hidden behind engineering choices?**. *Ethics and Information Technology*, volume 24, issue 1, article 12, Springer 2022.
- &nbsp; DOI:[10.1007/s10676-022-09636-z][etin-2022-doi]
+ &nbsp; [https://doi.org/10.1007/s10676-022-09636-z][etin-2022-doi]
  &nbsp; [Abstract][etin-2022-abstract]
  &nbsp; [BibTeX][etin-2022-bibtex]
  &nbsp; [PDF][etin-2022-pdf]
  &nbsp; [Implementation][etin-2022-impl]
 - <a id="CeMePe2015"></a> İsmail İlkan Ceylan, Julian Mendez, and Rafael Peñaloza. **The Bayesian Ontology reasoner is BORN!**. In Michel Dumontier, Birte Glimm, Rafael Gonçalves, Matthew Horridge, Ernesto Jiménez-Ruiz, Nicolas Matentzoglu, Bijan Parsia, Giorgos Stamou, and Giorgos Stoilos, editors, *Proceedings of the 4th International Workshop on OWL Reasoner Evaluation (ORE 2015)*, pages 8–14. volume 1387, CEUR Workshop Proceedings, 2015.
- &nbsp; [ceur-ws.org][ore-2015-pub]
+ &nbsp; [CEUR-WS.org/Vol-1387/paper_5.pdf][ore-2015-pub]
  &nbsp; [Abstract][ore-2015-abstract]
  &nbsp; [BibTeX][ore-2015-bibtex]
  &nbsp; [PDF][ore-2015-pdf]
  &nbsp; [Implementation][ore-2015-impl]
 - <a id="ErxGu14"></a> Fredo Erxleben, Michael Günther, Markus Krötzsch, Julian Mendez, Denny Vrandečić. **Introducing Wikidata to the Linked Data Web**. In *Proceedings of the 13th International Semantic Web Conference*. Springer 2014.
- &nbsp; DOI:[10.1007/978-3-319-11964-9_4][iswc-2014-doi]
+ &nbsp; [https://doi.org/10.1007/978-3-319-11964-9_4][iswc-2014-doi]
  &nbsp; [Abstract][iswc-2014-abstract]
  &nbsp; [BibTeX][iswc-2014-bibtex]
  &nbsp; [PDF][iswc-2014-pdf]
  &nbsp; [Implementation][iswc-2014-impl]
 - <a id="HaMeTT-ARM-14"></a> Marcus Hähnel, Julian Mendez, Veronika Thost, Anni-Yasmin Turhan. **Bridging the Application Knowledge Gap**. In *Workshop on Adaptive and Reflective Middleware'14*, December 2014.
- &nbsp; DOI:[10.1145/2677017.2677020][arm-2013-doi]
+ &nbsp; [https://doi.org/10.1145/2677017.2677020][arm-2013-doi]
  &nbsp; [Abstract][arm-2013-abstract]
  &nbsp; [BibTeX][arm-2013-bibtex]
  &nbsp; [PDF][arm-2013-pdf]
 - <a id="DelMe13"></a> Waltenegus Dargie, Eldora, Julian Mendez, Christoph Möbius, Kateryna Rybina, Veronika Thost, and Anni-Yasmin Turhan. **Situation Recognition for Service Management Systems Using OWL 2 Reasoners**. In *Proceedings of the 10th IEEE Workshop on Context Modeling and Reasoning 2013*, pages 31—36. San Diego, California, IEEE Computer Society, March 2013.
- &nbsp; DOI:[10.1109/PerComW.2013.6529452][comorea-2013-doi]
+ &nbsp; [https://doi.org/10.1109/PerComW.2013.6529452][comorea-2013-doi]
  &nbsp; [Abstract][comorea-2013-abstract]
  &nbsp; [BibTeX][comorea-2013-bibtex]
  &nbsp; [PDF][comorea-2013-pdf]
 - <a id="GoMeT13"></a> Sebastian Goetz, Julian Mendez, Veronika Thost, and Anni-Yasmin Turhan. **OWL 2 Reasoning To Detect Energy-Efficient Software Variants From Context**. In Kavitha Srinivas and Simon Jupp, editors, *Proceedings of the 10th OWL: Experiences and Directions Workshop (OWLED 2013)*, volume 1080, CEUR Workshop Proceedings, May 2013.
- &nbsp; [ceur-ws.org][owled-2013-pub]
+ &nbsp; [CEUR-WS.org/Vol-1080/owled2013_11.pdf][owled-2013-pub]
  &nbsp; [Abstract][owled-2013-abstract]
  &nbsp; [BibTeX][owled-2013-bibtex]
  &nbsp; [PDF][owled-2013-pdf]
 - <a id="GoScWiMeAs13"></a> Sebastian Götz, René Schöne, Claas Wilke, Julian Mendez, and Uwe Aßmann. **Towards Predictive Self-optimization by Situation Recognition**. *2nd Workshop EASED@ BUIS 2013*11, 2013.
- &nbsp; DOI:[10.1007/s40568-013-0022-4][eased-2013-doi]
+ &nbsp; [https://doi.org/10.1007/s40568-013-0022-4][eased-2013-doi]
  &nbsp; [Abstract][eased-2013-abstract]
  &nbsp; [BibTeX][eased-2013-bibtex]
  &nbsp; [PDF][eased-2013-pdf]
@@ -77,31 +77,31 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
  &nbsp; [BibTeX][aibd-2013-bibtex]
  &nbsp; [Proceedings][aibd-2013-pdf]
 - <a id="BBMM-DL-12"></a> Franz Baader, Stefan Borgwardt, Julian Alfredo Mendez, and Barbara Morawska. **UEL: Unification Solver for EL**. In Yevgeny Kazakov, Domenico Lembo, and Frank Wolter, editors, *Proceedings of the 25th International Workshop on Description Logics (DL'12)*, volume 846, CEUR Workshop Proceedings, pages 26—36, 2012.
- &nbsp; [ceur-ws.org][dl-2012-pub]
+ &nbsp; [CEUR-WS.org/Vol-846/paper_8.pdf][dl-2012-pub]
  &nbsp; [Abstract][dl-2012-abstract]
  &nbsp; [BibTeX][dl-2012-bibtex]
  &nbsp; [PDF][dl-2012-pdf]
  &nbsp; [Implementation][dl-2012-impl]
 - <a id="BaMM-IJCAR-12"></a> Franz Baader, Julian Mendez, and Barbara Morawska. **UEL: Unification Solver for the Description Logic EL — System Description**. In *Proceedings of the 6th International Joint Conference on Automated Reasoning (IJCAR'12)*, volume 7364 of in *Lecture Notes in Artificial Intelligence*, pages 45—51. Manchester, UK, Springer-Verlag, 2012.
- &nbsp; DOI:[10.1007/978-3-642-31365-3_6][ijcar-2012-doi]
+ &nbsp; [https://doi.org/10.1007/978-3-642-31365-3_6][ijcar-2012-doi]
  &nbsp; [Abstract][ijcar-2012-abstract]
  &nbsp; [BibTeX][ijcar-2012-bibtex]
  &nbsp; [PDF][ijcar-2012-pdf]
  &nbsp; [Implementation][ijcar-2012-impl]
 - <a id="Me-ORE12"></a> Julian Mendez. **jcel: A Modular Rule-based Reasoner**. *In Proceedings of the 1st International Workshop on OWL Reasoner Evaluation (ORE 2012)*, volume 858, CEUR Workshop Proceedings, 2012.
- &nbsp; [ceur-ws.org][ore-2012-pub]
+ &nbsp; [CEUR-WS.org/Vol-858/ore2012_paper12.pdf][ore-2012-pub]
  &nbsp; [Abstract][ore-2012-abstract]
  &nbsp; [BibTeX][ore-2012-bibtex]
  &nbsp; [PDF][ore-2012-pdf]
  &nbsp; [Implementation][ore-2012-impl]
 - <a id="MeEcTu-DL11"></a> Julian Mendez, Andreas Ecke, and Anni-Yasmin Turhan. **Implementing completion-based inferences for the EL-family**. In Riccardo Rosati, Sebastian Rudolph, and Michael Zakharyaschev, editors, *Proceedings of the international Description Logics workshop*, volume 745, CEUR Workshop Proceedings, 2011.
- &nbsp; [ceur-ws.org][dl-2011-pub]
+ &nbsp; [CEUR-WS.org/Vol-745/paper_56.pdf][dl-2011-pub]
  &nbsp; [Abstract][dl-2011-abstract]
  &nbsp; [BibTeX][dl-2011-bibtex]
  &nbsp; [PDF][dl-2011-pdf]
  &nbsp; [Implementation][dl-2011-impl]
 - <a id="MeSu-DL09"></a> Julian Mendez and Boontawee Suntisrivaraporn. **Reintroducing CEL as an OWL 2 EL Reasoner**. In Bernardo Cuenca Grau, Ian Horrocks, Boris Motik, and Ulrike Sattler, editors, *Proceedings of the 2009 International Workshop on Description Logics (DL2009)*, volume 477, CEUR Workshop Proceedings, 2009.
- &nbsp; [ceur-ws.org][dl-2009-pub]
+ &nbsp; [CEUR-WS.org/Vol-477/paper_65.pdf][dl-2009-pub]
  &nbsp; [Abstract][dl-2009-abstract]
  &nbsp; [BibTeX][dl-2009-bibtex]
  &nbsp; [PDF][dl-2009-pdf]
@@ -132,12 +132,12 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
 ## Collaborations
 
 - <a id="BBLW-JAIR16"></a> Franz Baader, Meghyn Bienvenu, Carsten Lutz, and Frank Wolter. **Query and Predicate Emptiness in Ontology-Based Data Access**. In *Journal of Artificial Intelligence Research (JAIR)*, 56:1–59, 2016.
- &nbsp; DOI:[10.1613/jair.4866][jair-2016-doi]
+ &nbsp; [https://doi.org/10.1613/jair.4866][jair-2016-doi]
  &nbsp; [Abstract][jair-2016-abstract]
  &nbsp; [BibTeX][jair-2016-bibtex]
  &nbsp; [PDF][jair-2016-pdf]
 - <a id="PeTu-ESWC2011"></a> Rafael Peñaloza, Anni-Yasmin Turhan. **A Practical Approach for Computing Generalization Inferences in EL**. In Grigoris Antoniou, Marko Grobelnik, Elena Simperl, Bijan Parsia, Dimitris Plexousakis, Pieter De Leenheer, and Jeff Pan, editors, *Proceedings of the 8th Extended Semantic Web Conference (ESWC 2011)*, Lecture Notes in Computer Science, vol 6643, 410-423, Springer, 2011.
- &nbsp; DOI:[10.1007/978-3-642-21034-1_28][eswc-2011-doi]
+ &nbsp; [https://doi.org/10.1007/978-3-642-21034-1_28][eswc-2011-doi]
  &nbsp; [Abstract][eswc-2011-abstract]
  &nbsp; [BibTeX][eswc-2011-bibtex]
  &nbsp; [PDF][eswc-2011-pdf]
@@ -154,7 +154,7 @@ Andrea Aler Tubella, Dimitri Coelho Mollo, Adam Dahlgren Lindström, Hannah Devi
 Julian Alfredo Mendez.
 **Soda: An Object-Oriented Functional Language for Specifying Human-Centered Problems**.
 arXiv
- &nbsp; DOI:[10.48550/arXiv.2310.01961][arxiv-2023-doi]
+ &nbsp; [https://doi.org/10.48550/arXiv.2310.01961][arxiv-2023-doi]
  &nbsp; [Abstract][arxiv-2023-abstract]
  &nbsp; [BibTeX][arxiv-2023-bibtex]
  &nbsp; [PDF][arxiv-2023-pdf]
@@ -164,7 +164,7 @@ arXiv
 ## Licentiate Thesis
 
 - <a id="Men-Lic-24"></a> Julian Alfredo Mendez. **Making Fairness Actionable**, Licentiate thesis, Umeå University, 2024.
- &nbsp; URN:[urn:nbn:se:umu:diva-232384][licentiate-urn]
+ &nbsp; [urn:nbn:se:umu:diva-232384][licentiate-urn]
  &nbsp; [Abstract][licentiate-abstract]
  &nbsp; [PDF][licentiate-pdf]
 
